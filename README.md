@@ -2,4 +2,4 @@ Algorithm
 =========
 
 An place for several algorithms.
-I'm Nabokov Safran. Android developer.
+I'm Safran Nabokov. Android developer.
